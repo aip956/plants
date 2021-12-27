@@ -1,0 +1,16 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  plantname: MyString
+  planttype: MyString
+  lastWatered: MyString
+  lastFed: MyString
+  recWater: MyString
+  recFeed: MyString
+two:
+  plantname: MyString
+  planttype: MyString
+  lastWatered: MyString
+  lastFed: MyString
+  recWater: MyString
+  recFeed: MyString
