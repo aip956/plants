@@ -6,7 +6,7 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-
+User.create([{ name: "Ip" }, { name: "Jacq" }, { name: "Arden" }])
 Plant.create([
     {"plantname": "George",
     "planttype": "Calathea Peacock",
@@ -14,7 +14,7 @@ Plant.create([
     "lastFed": "2021/12/01",
     "recWater": "1/week, mist 3x/week",
     "recFeed": "1/mo, Spring & Summer",
-    "user_id": "1"
+    "user_id": 1
     },
     {"plantname": "Snake",
     "planttype": "Calathea Rattlesnake",
@@ -22,7 +22,7 @@ Plant.create([
     "lastFed": "2021/12/01",
     "recWater": "1/week, mist 3x/week",
     "recFeed": "1/mo, Spring & Summer",
-    "user_id": "1"
+    "user_id": 1
     },
     {"plantname": "Biggie",
     "planttype": "Bamboo Palm",
@@ -30,7 +30,7 @@ Plant.create([
     "lastFed": "2021/12/01",
     "recWater": "1/week, mist 3x/week",
     "recFeed": "Half/mo, Spring & Summer",
-    "user_id": "1"
+    "user_id": 1
     },
     {"plantname": "Pink",
     "planttype": "Bromeliad Aechmea",
@@ -38,7 +38,7 @@ Plant.create([
     "lastFed": "2021/12/01",
     "recWater": "1/week, mist 3x/week",
     "recFeed": "Foliar spray 1-2/mo spring & summer",
-    "user_id": "1"
+    "user_id": 1
     },
     {"plantname": "Green Prayer",
     "planttype": "Neon Prayer Plant",
@@ -46,7 +46,7 @@ Plant.create([
     "lastFed": "2021/12/01",
     "recWater": "1/week, mist 3x/week",
     "recFeed": "1/mo, Spring & Summer",
-    "user_id": "1"
+    "user_id": 1
     },
     {"plantname": "Shedders",
     "planttype": "Kimberly Queen Fern",
@@ -54,7 +54,7 @@ Plant.create([
     "lastFed": "2021/12/01",
     "recWater": "1/week, mist 3x/week",
     "recFeed": "Half/3mo",
-    "user_id": "1"
+    "user_id": 1
     },
     {"plantname": "Big Croc",
     "planttype": "Crocodile Fern",
@@ -62,7 +62,7 @@ Plant.create([
     "lastFed": "2021/12/01",
     "recWater": "1/week, mist 3x/week",
     "recFeed": "Half/mo, Spring & Summer",
-    "user_id": "1"
+    "user_id": 1
     },
     {"plantname": "Small Bird",
     "planttype": "Bird’s Nest Fern",
@@ -70,7 +70,7 @@ Plant.create([
     "lastFed": "2021/12/01",
     "recWater": "1/week, mist 3x/week",
     "recFeed": "1/mo, Spring & Summer",
-    "user_id": "1"
+    "user_id": 1
     },
     {"plantname": "Dying Succ",
     "planttype": "Echeveria Rosea",
@@ -78,6 +78,6 @@ Plant.create([
     "lastFed": "2021/12/01",
     "recWater": "1/2weeks",
     "recFeed": "1/season",
-    "user_id": "1"
+    "user_id": 1
     },
 ])
