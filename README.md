@@ -3,7 +3,7 @@
 Plants is a full stack application using a REACT frontend, Ruby on Rails backend, Postgres database.
 
 * Notion board:
-![Notion board](./Plant Notion Board.jpg)
+![Notion board](./plants/Plant Notion Board.jpg)
 
 * Backend language: Ruby 3.0.3
 * Postgres Database: Models "plant" and "user"
